@@ -11,7 +11,8 @@ A small Python script for generating bingo boards from a list of Tinder stereoty
 
 -	Førstemann til fullt brett/BINGO vinner!
 
-Alle skåler og drikker når:
+
+## Alle skåler og drikker når:
 -	Reklame.
 -	Noen kommer med en grisete kommentar.
 -	It’s a match!

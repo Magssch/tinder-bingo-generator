@@ -1,11 +1,17 @@
 # tinder-bingo
 A small Python script for generating bingo boards from a list of Tinder stereotypes in Trondheim.
 
-How to run: (Requires python-docx module)
+## How to play
+- Install python-docx module
 
 `
 pip install python-docx
 `
+
+- Run tinderbingo.py
+- Open docx-file in your viewer of choice and print board(s).
+- Play!
+
 
 # Rules (in norwegian)
 

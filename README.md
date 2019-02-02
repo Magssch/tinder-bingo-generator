@@ -4,7 +4,7 @@ A small Python script for generating bingo boards from a list of Tinder stereoty
 ## How to play
 - Install python-docx module
 
-`
+- `
 pip install python-docx
 `
 

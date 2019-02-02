@@ -1,6 +1,7 @@
 # tinder-bingo
 A small Python script for generating bingo boards from a list of Tinder stereotypes in Trondheim.
 
+
 # Rules (in norwegian)
 
 -	Alle får hvert sitt brett med 4x4 ruter som fylles individuelt med 16 av de følgende punktene.

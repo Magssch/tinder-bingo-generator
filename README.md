@@ -2,9 +2,9 @@
 A small Python script for generating bingo boards from a list of Tinder stereotypes in Trondheim.
 
 ## How to play
-- Install python-docx module
+- Install python-docx module:
 
-- `
+  * `
 pip install python-docx
 `
 

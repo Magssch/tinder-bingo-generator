@@ -2,7 +2,7 @@
 A small Python script for generating bingo boards from a list of Tinder stereotypes in Trondheim.
 
 # How to play
-Requirements: Python 3.x, Python IDE, PyPI
+Requirements: Python 3.x, Python IDE, PyPI, Chromecast/Airplay or equivalent receiver
 
 - Install python-docx module:
 

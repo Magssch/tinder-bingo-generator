@@ -28,17 +28,17 @@ if __name__ == '__main__':
         for i in range(4):
             for j in range(4):
 
-                linenum = random.randint(1,104)
+                linenum = random.randint(1,103)
                 while(bingolist[linenum-1] in used):
-                    linenum = random.randint(1, 104)
+                    linenum = random.randint(1, 68)
 
                 if g.lower() == "f":
-                    while(69 < linenum < 88):
-                        linenum = random.randint(1, 104)
+                    while(68 < linenum < 87):
+                        linenum = random.randint(1, 103)
 
                 if g.lower() == "m":
-                    while(linenum >= 88):
-                        linenum = random.randint(1, 104)
+                    while(linenum >= 87):
+                        linenum = random.randint(1, 103)
 
                 board[i][j] = bingolist[linenum-1]
                 used.append(bingolist[linenum-1])

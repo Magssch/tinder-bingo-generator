@@ -23,7 +23,6 @@ Bilde av barn uten forklaring
 Bilde med kjent landemerke i utlandet
 Bilde med kjendis
 Barnebilde
-Kjentfolk
 GIF/Video
 Ballonger med tall eller bokstaver
 Flere bilder fra samme kveld
@@ -41,7 +40,7 @@ Bilde fra treningssenteret
 PowerPoint-presentasjon (alle andre må ta waterfall)
 Tre stykker uten tekst i bio
 Over fem emojier i bio
- Skriver på dialekt
+Skriver på dialekt
 Sær skrivings feil
 Ulovlige ordspill
 Norsk flagg i bio
@@ -56,10 +55,10 @@ Veganer
 Inspirational quote i bio
 Sangtekst i bio
 «Leter etter den rette / drømmemannen / drømmedama»
- «Snill og grei»
+«Snill og grei»
 «Har du lyst, har du lov»
 «Bartebyen»
- «Tull» / «Tøys» / «Fanteri»
+«Tull» / «Tøys» / «Fanteri»
 «Ikke min unge»
 Bilde med musikkinstrument
 Dobbeltnavn

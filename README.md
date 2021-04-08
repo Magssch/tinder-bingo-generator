@@ -27,7 +27,6 @@ pip install python-docx
 
 ## Alle skåler og drikker når:
 -	Reklame.
--	Noen kommer med en grisete kommentar.
 -	It’s a match!
 - Personen som sveiper gir super-like ved uhell
 - Noen kjenner personen på storskjerm.
